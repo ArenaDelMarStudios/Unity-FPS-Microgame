@@ -81,4 +81,4 @@ A modified Unity FPS Microgame project developed as a portfolio project.
 
 ## 🎮 Play Online
 
-[**▶ Play the Game on Unity Play**] https://play.unity.com/api/v1/games/game/beee5f43-eebe-4898-9416-9b461e6eb05b/build/latest/frame
+[**▶ Play the Game on Unity Play**] https://play.unity.com/en/games/beee5f43-eebe-4898-9416-9b461e6eb05b/fps-microgame-custom
