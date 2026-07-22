@@ -8,28 +8,28 @@ This project is based on Unity's FPS Microgame and has been modified and expande
 
 ## Features
 
-* First-person FPS gameplay
-* Enemy AI and combat systems
-* NavMesh-based enemy navigation
-* Objective and mission systems
-* Primary and secondary objective UI
-* Center-screen objective notifications
-* Custom objective notification audio
-* Configurable notification audio pitch
-* Custom UI behavior and presentation
-* Sci-fi environment and lighting
-* WebGL build support
+- First-person FPS gameplay
+- Enemy AI and combat systems
+- NavMesh-based enemy navigation
+- Objective and mission systems
+- Primary and secondary objective UI
+- Center-screen objective notifications
+- Custom objective notification audio
+- Configurable notification audio pitch
+- Custom UI behavior and presentation
+- Sci-fi environment and lighting
+- WebGL build support
 
 ## Technologies
 
-* Unity
-* C#
-* Unity AI Navigation / NavMesh
-* Universal Render Pipeline (URP)
-* Unity Input System
-* Git
-* GitHub
-* WebGL
+- Unity
+- C#
+- Unity AI Navigation / NavMesh
+- Universal Render Pipeline (URP)
+- Unity Input System
+- Git
+- GitHub
+- WebGL
 
 ## Project Structure
 
@@ -63,16 +63,22 @@ This project is based on Unity's FPS Microgame and contains modifications and cu
 
 Developed as part of a Unity game development portfolio.
 
-
 ## Third-Party Assets
 
 This project includes third-party assets obtained from the Unity Asset Store and other sources. These assets are used in accordance with their respective licenses.
 
 Third-party assets are credited to their original creators and are not claimed as original work by the project author.
 
-* **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
-* **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
-* **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
+- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
+- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
+- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
 
 All rights to third-party assets remain with their respective creators and publishers.
 
+# FPS Sci-Fi Microgame
+
+A modified Unity FPS Microgame project developed as a portfolio project.
+
+## 🎮 Play Online
+
+[**▶ Play the Game on Unity Play**] https://play.unity.com/api/v1/games/game/beee5f43-eebe-4898-9416-9b461e6eb05b/build/latest/frame
