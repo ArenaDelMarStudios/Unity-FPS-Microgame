@@ -69,9 +69,8 @@ This project includes third-party assets obtained from the Unity Asset Store and
 
 Third-party assets are credited to their original creators and are not claimed as original work by the project author.
 
-- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
-- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
-- **[Asset Name]** — Created by **[Creator Name]** — [Source/Asset Store Link]
+- **Universe Sounds Free Pack** — Created by **Marcin Klosowski** — https://assetstore.unity.com/packages/audio/ambient/sci-fi/universe-sounds-free-pack-118865#publisher
+- **Classic Space Skybox** — Created by **Sean Duffy** — https://assetstore.unity.com/packages/2d/textures-materials/classic-space-skybox-11596#publisher
 
 All rights to third-party assets remain with their respective creators and publishers.
 
